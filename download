@@ -1,0 +1,5 @@
+paperbot.db
+webull_credentials.json
+__pycache__/
+.venv/
+.env

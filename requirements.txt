@@ -1,0 +1,7 @@
+pandas
+numpy
+yfinance
+streamlit
+alpaca-py
+# Optional, only for BROKER = "webull" (experimental):
+# webull
